@@ -14,5 +14,6 @@ Watch this repository
 
 Make a pull-request to add your name below:
 
+* Jane Doe @janedoe
 * Raunak Redkar @raunakCode
 * Michael Yu @MichaelWhyYou
