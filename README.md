@@ -17,4 +17,5 @@ Make a pull-request to add your name below:
 * Jane Doe @janedoe
 * Raunak Redkar @raunakCode
 * Michael Yu @MichaelWhyYou
+* Malcolm Alencar @lourinhons
 * Shamiur Rahman Ramim @qpeano
