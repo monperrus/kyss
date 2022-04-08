@@ -1,6 +1,6 @@
 # KYSS lecture "Developer, Sexy and Rich"
 
-If you complete all tasks, you'll receive a gift at the end of the lecture. I'll be adding new tasks, stay tuned by watching this repository.
+If you complete all tasks, you'll receive a gift at the end of the lecture.
 
 ## Task 1
 
